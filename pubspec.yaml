@@ -1,0 +1,5 @@
+name: zakat_dart_tijarah_inventory_zakat
+description: "Urud Al-Tijarah Net Working Capital & Inventory Zakat Calculator"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
